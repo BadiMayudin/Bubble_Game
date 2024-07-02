@@ -1,0 +1,78 @@
+]
+
+
+
+        .order{
+            width: 640px;
+            height: 185px;
+            background-color: white;
+            margin:20px 0 0 20px ;
+            background-image: url(image/kettle-desaturated._CB445243794_.svg);
+            background-repeat: no-repeat;
+            background-size: 200px;
+            background-position: 20px 40px ;
+        }
+        h2{
+            margin-left: 250px;
+            padding-top: 50px   ;
+        }
+        .anchor{
+            margin-left: 250px;
+            font-size: 0.8rem;
+            margin-top: 10px;
+        }
+        .input{
+            display: flex;
+        }
+        .input input{
+            border: none;
+            background-color: #FFD814;
+            margin-left: 250px;
+            margin-top: 10px;
+            width: 187px;
+            height: 30px;
+            border-radius: 5px;
+        }
+        <div class="main">
+            <div class="order">
+                <div class="h2">
+                    <h2>your Amazon Cart is empty</h2>
+                </div>
+                <div class="anchor">
+                    <a href="" style=" color: #007185;text-decoration: none;">Shop today's Deals</a>
+                </div>
+                <div class="input">
+                    <input type="submit" value="Sign In to your account" style="font-size: 15px;"><input type="submit"  value="Sign up now" style="margin-left: 10px;background-color: white;border: 1px solid gray;width: 110px;height: 29px;" class="input1">
+                </div>
+            </div>
+
+            Recommended based on your shopping trendsPage 1 of 5Page 1 of 5
+Sponsored
+Previous page of related Sponsored Products
+AHS American Hospital Supply Nitrile Gloves Chemo Rated Gloves Powder Free | Medical Grade Examination Gloves Industrial and Scientific (Large) Case of 1000 Pack
+AHS American Hospital Supply Nitrile Gloves Chemo Rated Gloves Powder Free | Medical Grade Examination Gloves Industrial and Scientific (Large) Case of 1000 PackAHS American Hospital Supply Nitrile Gloves Chemo Rated Gloves Powder Free | Medical Grade Examination Gl…
+5.0 out of 5 stars  1
+$59.99
+Westcott 13168 Right- and Left-Handed Scissors, Kids' Scissors, Ages 4-8, 5-Inch Blunt Tip, Assorted, 2 Pack
+
+
+Previous page of related Sponsored Products
+AHS American Hospital Supply Nitrile Gloves Chemo Rated Gloves Powder Free | Medical Grade Examination Gloves Industrial and Scientific (Large) Case of 1000 Pack
+AHS American Hospital Supply Nitrile Gloves Chemo Rated Gloves Powder Free | Medical Grade Examination Gloves Industrial and Scientific (Large) Case of 1000 PackAHS American Hospital Supply Nitrile Gloves Chemo Rated Gloves Powder Free | Medical Grade Examination Gl…
+5.0 out of 5 stars  1
+$59.99
+Westcott 13168 Right- and Left-Handed Scissors, Kids' Scissors, Ages 4-8, 5-Inch Blunt Tip, Assorted, 2 Pack
+Westcott 13168 Right- and Left-Handed Scissors, Kids' Scissors, Ages 4-8, 5-Inch Blunt Tip, Assorted, 2 PackWestcott 13168 Right- and Left-Handed Scissors, Kids' Scissors, Ages 4-8, 5-Inch Blunt Tip, Assorted, 2 Pack
+4.7 out of 5 stars  11,124
+$4.51
+48 Piece Bulk School Supplies Kits, Value Pack of 12 Kits - Essential Box of School Supplies for Elementary, Middle, and High School Students
+
+
+
+
+
+
+
+<div class="box2">
+   
+</div>
